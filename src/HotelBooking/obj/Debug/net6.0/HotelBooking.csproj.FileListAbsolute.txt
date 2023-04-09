@@ -1,0 +1,12 @@
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.csproj.AssemblyReference.cache
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.AssemblyInfoInputs.cache
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.AssemblyInfo.cs
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.csproj.CoreCompileInputs.cache
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\bin\Debug\net6.0\HotelBooking.deps.json
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\bin\Debug\net6.0\HotelBooking.dll
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\bin\Debug\net6.0\HotelBooking.pdb
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.dll
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\refint\HotelBooking.dll
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\HotelBooking.pdb
+D:\PROGRAM\HK6\PPO\lab3\HotelBooking\obj\Debug\net6.0\ref\HotelBooking.dll
