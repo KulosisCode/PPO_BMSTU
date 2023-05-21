@@ -65,3 +65,7 @@ UML диаграмма компонента бизнес логики:
 Диаграмма сущностей БД:
 
 ![Диаграмма сущностей БД](/img/ER_DB.png)
+## 13.UML_UI
+![UML_UI](/img/uml_ui.png)
+## 14.UML_All_APP
+![UML_APP](/img/uml_all_app.png)

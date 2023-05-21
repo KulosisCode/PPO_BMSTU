@@ -1,0 +1,63 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="C:\Users\haolu\.nuget\packages\nlog.config\4.7.15\contentFiles\any\any\NLog.config" />
+    <Compile Remove="C:\Users\haolu\.nuget\packages\nlog.schema\5.1.4\contentFiles\any\any\NLog.xsd" />
+    <Compile Remove="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\haolu\.nuget\packages\nlog.config\4.7.15\contentFiles\any\any\NLog.config" />
+	<None Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\haolu\.nuget\packages\nlog.schema\5.1.4\contentFiles\any\any\NLog.xsd" />
+    <None Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Include="C:\Users\haolu\.nuget\packages\nlog.config\4.7.15\contentFiles\any\any\NLog.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Krypton.Toolkit" Version="70.22.11.312" />
+    <PackageReference Include="MaterialSkin.2" Version="2.1.3" />
+    <PackageReference Include="NLog" Version="5.1.4" />
+    <PackageReference Include="NLog.Config" Version="4.7.15" />
+    <PackageReference Include="NLog.Schema" Version="5.1.4" />
+    <PackageReference Include="Npgsql" Version="7.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BL\BL.csproj" />
+    <ProjectReference Include="..\DA\DA.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Docking">
+      <HintPath>..\..\..\..\..\HK6\DATABASE_CUR\Krypton-master\Bin\ComponentFactory.Krypton.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Navigator">
+      <HintPath>..\..\..\..\..\HK6\DATABASE_CUR\Krypton-master\Bin\ComponentFactory.Krypton.Navigator.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Ribbon">
+      <HintPath>..\..\..\..\..\HK6\DATABASE_CUR\Krypton-master\Bin\ComponentFactory.Krypton.Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\..\HK6\DATABASE_CUR\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ComponentFactory.Krypton.Workspace">
+      <HintPath>..\..\..\..\..\HK6\DATABASE_CUR\Krypton-master\Bin\ComponentFactory.Krypton.Workspace.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
