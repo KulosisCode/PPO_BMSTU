@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6syZddtjjHmGUp79+zlHC0Y1kRb8zWbqG/QemY70YATRIoTubzlk0EE+wf3cuQo7B0UhB4JWCOxNrHpjrTkRmQ==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAM\\HK6\\PPO\\lab5\\UITech\\UITech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haolu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\haolu\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\haolu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\PROGRAM\HK6\PPO\lab5\DA\bin\Debug\net6.0\DA.deps.json
+D:\PROGRAM\HK6\PPO\lab5\DA\bin\Debug\net6.0\DA.dll
+D:\PROGRAM\HK6\PPO\lab5\DA\bin\Debug\net6.0\DA.pdb
+D:\PROGRAM\HK6\PPO\lab5\DA\bin\Debug\net6.0\BL.dll
+D:\PROGRAM\HK6\PPO\lab5\DA\bin\Debug\net6.0\BL.pdb
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.csproj.AssemblyReference.cache
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.AssemblyInfoInputs.cache
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.AssemblyInfo.cs
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.csproj.CoreCompileInputs.cache
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.csproj.CopyComplete
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.dll
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\refint\DA.dll
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\DA.pdb
+D:\PROGRAM\HK6\PPO\lab5\DA\obj\Debug\net6.0\ref\DA.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iEFZAKOcEe507axAhlVgmlDxqTst+OIqoeHKAZ5GjHGe/SO7Hd/H7i+3KCGQll6OSnIC8u6hIfdhik9QBOAn+w==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAM\\HK6\\PPO\\lab3\\HotelBooking\\HotelBooking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haolu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\haolu\\.nuget\\packages\\npgsql\\7.0.2\\npgsql.7.0.2.nupkg.sha512",
+    "C:\\Users\\haolu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
